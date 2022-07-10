@@ -15,7 +15,7 @@ This was done via visualizations with Tableau in order for others to better unde
 Using Python and Pandas, I converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds. After I converted the DataFrame, I exported it as a CSV file to use in Deliverables 2 and 3.
 
 ### DataFrame
-(insert DF here)
+![Datetime DataFrame](./Citibike_df.png)
 
 
 ## Create Visualizations for the Trip Analysis
@@ -28,14 +28,27 @@ Using Tableau, I created the following visualizations:
   
 This was possible by exporting Deliverable 1 as a CSV file into a new Tableau public workbook.
 
-### Tables 
-(insert Tables here)
+### Data
+#### Checkout Times for Users
+![Checkout_Times_for_Users](./Checkout_Times_for_Users.png)
+
+#### Checkout Times by Gender
+![Trips_By_Weekday](./Checkout_Times_by_Gender.png)
+
+#### Trips by Weekday
+![Checkout_Times_for_Users](./Trips_by_Weekday.png)
+
+#### Trips by Gender (Weekday Per Hour)
+![Trips by Gender](./Trips_by_Gender.png)
+
+#### User Trips by Gender by Weekday
+![User_Trips_by_Gender_by_Weekday](./User_Trips.png)
 
 ## Create a Story 
 For Deliverable 3, I created a story in Tableau and described the key outcomes of the NYC Citibike analysis for this whole module and in Deliverable 2
 
 ### Story
-(insert Story here)
+![NYC_Citibike_Story](./NYC_Citibike_Story.png)
 
 ## Summary
 
