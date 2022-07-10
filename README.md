@@ -48,7 +48,7 @@ This was possible by exporting Deliverable 1 as a CSV file into a new Tableau pu
 ![User_Trips_by_Gender_by_Weekday](./User_Trips.png)
 
 #### Starting Locations
-![Starting_LOcations](./Checkout_Times_for_Users.png)
+![Starting_Locations](./Starting_Locations.png)
 
 ## Create a Story 
 For Deliverable 3, I created a story in Tableau and described the key outcomes of the NYC Citibike analysis for this whole module and in Deliverable 2
