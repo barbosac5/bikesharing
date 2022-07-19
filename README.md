@@ -62,7 +62,8 @@ Based on the results gathered, while the Citibike service is very use ful and co
 In addition to having the data presented now. I beleive the information can be respresented in other ways as well. One visualization that comes to mind if a simple pie chart showing the percentages of the genders. Even though we already know that men are the majority of users in this dataset, it would be insightful to see how much (percetnage wise) they cover. Going off this first suggestion, another good visualization that can be used is another pie chart but instead of showing the gender, it can show the percentage of subscribers compared to customers. I made a graph showing the User Trips by Gender by Weekday which showes the subscriber in color shading form. having another pie chart showing the actual percentages of subscribers and customers can highlight the amount of subscribers across all genders and can help in showing the majority of the kinds of users.
 
 ## Resources
-- [Link to Dashboard](https://public.tableau.com/app/profile/christian4489)
+- [Link to Dashboard](https://public.tableau.com/app/profile/christian4489) 
+- (PLEASE CLICK LINK AND SELECT PROJECT FOR DOWNLOAD)
 
 - Python 
 
